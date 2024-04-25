@@ -32,9 +32,9 @@ pip install rich pywin32
 要运行此脚本，请克隆仓库，导航到脚本所在的目录，并执行Python脚本。
 
 ```bash
-git clone https://your-repository-url-here
-cd your-repository-directory
-python your-script-name.py
+git clone https://github.com/TonyDua/WinCudaManager.git
+cd WinCudaManager
+python cuda_switcher.py
 ```
 
 ## 开发状态
